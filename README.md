@@ -16,3 +16,4 @@ Python 3.10.9 64-bit | Qt 5.15.2 | PyQt5 5.15.7 | Windows 10 <br>
 7. Exit<br>
 8. Enter your choice (1-7): <br>
 # -----pvm2.py-----<br>
+# Requirements: pygame,  Python v3 or greater
