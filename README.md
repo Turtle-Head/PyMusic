@@ -5,7 +5,7 @@
 
 <br>
 
-Currently playing song: <br>
+Currently Playing: <br>
 --- Audio Player Menu ---<br>
 1. Open Directory<br>
 2. Display MP3 Files<br>
