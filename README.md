@@ -7,6 +7,7 @@ The Scientific Python Development Environment | Spyder-IDE.org <br>
 Python 3.10.9 64-bit | Qt 5.15.2 | PyQt5 5.15.7 | Windows 10 <br>
 https://www.spyder-ide.org/  <be>
 <br>
+# Latest version pvm6.py <br>
 Currently playing song: <br>
 --- Audio Player Menu ---<br>
 1. Open Directory<br>
